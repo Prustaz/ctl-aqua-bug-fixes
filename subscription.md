@@ -12,7 +12,7 @@
 ## Core Features
 - Billing & invoicing (up to 200/month)  
 - Party management with credit balance & opening balance  
-- Item management (stock, category, unit, batch, expiry)  
+- Item management (stock, category, unit)  
 - CSV bulk upload of items  
 
 ### Sales Workflow
